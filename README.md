@@ -42,7 +42,7 @@ Each approach generates a binary segmentation mask, which is compared against gr
 
 **Dataset**
 
-- LIVECell Dataset
+- [LIVECell Dataset](https://www.kaggle.com/datasets/markunys/livecell-dataset?select=LIVECell_dataset_2021)
 - Label-free phase-contrast microscopy images
 - Pixel-level annotations provided in COCO format
 - BV-2 cell line subset used for evaluation
